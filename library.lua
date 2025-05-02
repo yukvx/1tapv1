@@ -448,7 +448,7 @@ end
                     Active = true, 
                     Draggable = true, 
                     BorderColor3 = Color3.fromRGB(0, 0, 0),
-                    Size = UDim2.new(0, ((#animated_text / 2) * 5) + 13, 0, 40),
+                    Size = UDim2.new(0, ((#animated_text / 2) * 5) + 20, 0, 45),
                     BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 })
                 
