@@ -526,7 +526,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     BorderSizePixel = 0,
                     AutomaticSize = Enum.AutomaticSize.X,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
 
@@ -681,7 +681,7 @@ end
                     Position = UDim2.new(0, 0, 0, -1),
                     Size = UDim2.new(1, 0, 0, 1),
                     ZIndex = 2,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -767,7 +767,7 @@ end
                     Position = UDim2.new(0, 0, 0, -1),
                     Size = UDim2.new(1, 0, 0, 1),
                     ZIndex = 2,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
 
@@ -1164,7 +1164,7 @@ end
                     Position = UDim2.new(0.5, 0, 0.031031031161546707, 0),
                     AutomaticSize = Enum.AutomaticSize.Y,
                     ZIndex = 50,
-                    TextSize = 12,
+                    TextSize = 13,
                     Size = UDim2.new(1, 0, 0, 4)
                 })
 
@@ -1261,7 +1261,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Right,
                     Active = true,
                     TextYAlignment = Enum.TextYAlignment.Top,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(26, 255, 0)
                 })
 
@@ -1309,7 +1309,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Right,
                     Active = true,
                     TextYAlignment = Enum.TextYAlignment.Top,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(26, 255, 0)
                 })
 
@@ -1393,7 +1393,7 @@ end
                     Position = UDim2.new(0, 0, 0, -2),
                     BorderSizePixel = 0,
                     ZIndex = 50,
-                    TextSize = 12,
+                    TextSize = 13,
                     Size = UDim2.new(1, 0, 0, 0)
                 })
 
@@ -1485,7 +1485,7 @@ end
                     Position = UDim2.new(0, 0, 0, -1),
                     Size = UDim2.new(1, 0, 0, 1),
                     ZIndex = 2,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -1705,7 +1705,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     TextTruncate = Enum.TextTruncate.AtEnd,
                     AutomaticSize = Enum.AutomaticSize.XY,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -1726,7 +1726,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     TextTruncate = Enum.TextTruncate.AtEnd,
                     AutomaticSize = Enum.AutomaticSize.XY,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -1747,7 +1747,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     TextTruncate = Enum.TextTruncate.AtEnd,
                     AutomaticSize = Enum.AutomaticSize.XY,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -1788,7 +1788,7 @@ end
                     TextStrokeTransparency = 0.5,
                     Position = UDim2.new(0, 2, 0, 2),
                     Size = UDim2.new(1, -4, 1, -4),
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(38, 38, 38)
                 })
 
@@ -1817,7 +1817,7 @@ end
                     TextStrokeTransparency = 0.5,
                     Position = UDim2.new(0, 2, 0, 2),
                     Size = UDim2.new(1, -4, 1, -4),
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(38, 38, 38)
                 })
 
@@ -1846,7 +1846,7 @@ end
                     TextStrokeTransparency = 0.5,
                     Position = UDim2.new(0, 2, 0, 2),
                     Size = UDim2.new(1, -4, 1, -4),
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(38, 38, 38)
                 })
 
@@ -1918,7 +1918,7 @@ end
                         Size = UDim2.new(1, 0, 0, 0),
                         BorderSizePixel = 0,
                         AutomaticSize = Enum.AutomaticSize.Y,
-                        TextSize = 12,
+                        TextSize = 13,
                         BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                     })
 
@@ -1937,7 +1937,7 @@ end
                         TextXAlignment = Enum.TextXAlignment.Left,
                         TextTruncate = Enum.TextTruncate.AtEnd,
                         AutomaticSize = Enum.AutomaticSize.Y,
-                        TextSize = 12,
+                        TextSize = 13,
                         BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                     })
 
@@ -1957,7 +1957,7 @@ end
                         TextXAlignment = Enum.TextXAlignment.Left,
                         BorderSizePixel = 0,
                         AutomaticSize = Enum.AutomaticSize.Y,
-                        TextSize = 12,
+                        TextSize = 13,
                         BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                     })
 
@@ -1987,7 +1987,7 @@ end
                         TextXAlignment = Enum.TextXAlignment.Left,
                         BorderSizePixel = 0,
                         AutomaticSize = Enum.AutomaticSize.Y,
-                        TextSize = 12,
+                        TextSize = 13,
                         BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                     })
 
@@ -2127,7 +2127,7 @@ end
                     Position = UDim2.new(0, 0, 0, -1),
                     Size = UDim2.new(1, 0, 0, 1),
                     ZIndex = 2,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -2238,7 +2238,7 @@ end
                 LineHeight = 1.2000000476837158,
                 TextStrokeTransparency = 0.5,
                 AnchorPoint = Vector2.new(0.5, 0),
-                TextSize = 12,
+                TextSize = 13,
                 Size = UDim2.new(0, 0, 0, 11),
                 TextColor3 = Color3.fromRGB(170, 170, 170),
                 BorderColor3 = Color3.fromRGB(0, 0, 0),
@@ -2350,7 +2350,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     BorderSizePixel = 0,
                     AutomaticSize = Enum.AutomaticSize.X,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -2448,7 +2448,7 @@ end
                     BackgroundTransparency = 1,
                     Size = UDim2.new(0.3330000042915344, -4, 0, 22),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -2688,7 +2688,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 8, 0, 0),
                     ZIndex = 2,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -3066,7 +3066,7 @@ end
                 TextXAlignment = Enum.TextXAlignment.Left,
                 Position = UDim2.new(0, 8, 0, 0),
                 ZIndex = 2,
-                TextSize = 12,
+                TextSize = 13,
                 BackgroundColor3 = Color3.fromRGB(255, 255, 255)
             })
 
@@ -3144,7 +3144,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Size = UDim2.new(1, -26, 0, 12),
                     ZIndex = 1,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -3303,7 +3303,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     AutomaticSize = Enum.AutomaticSize.Y,
                     TextYAlignment = Enum.TextYAlignment.Top,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -3385,7 +3385,7 @@ end
                 Position = UDim2.new(1, 0, 0, 1),
                 BorderSizePixel = 0,
                 FontFace = library.font,
-                TextSize = 12,
+                TextSize = 13,
                 BackgroundColor3 = Color3.fromRGB(255, 255, 255)
             })
             
@@ -3436,7 +3436,7 @@ end
                 Position = UDim2.new(0, -15, 0, -1),
                 Size = UDim2.new(0, 8, 0, 8),
                 FontFace = library.font,
-                TextSize = 12,
+                TextSize = 13,
                 BackgroundColor3 = Color3.fromRGB(38, 38, 38)
             })
             
@@ -3541,7 +3541,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     AutomaticSize = Enum.AutomaticSize.Y,
                     TextYAlignment = Enum.TextYAlignment.Top,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
                 
@@ -3589,7 +3589,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Size = UDim2.new(1, -4, 1, -4),
                     Position = UDim2.new(0, 2, 0, 2),
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(38, 38, 38)
                 })
                 
@@ -3682,7 +3682,7 @@ end
                 --     TextXAlignment = Enum.TextXAlignment.Left,
                 --     Position = UDim2.new(0, 2, 0, 2),
                 --     BorderSizePixel = 0,
-                --     TextSize = 12,
+                --     TextSize = 13,
                 --     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 -- })
                 
@@ -3754,7 +3754,7 @@ end
                         TextXAlignment = Enum.TextXAlignment.Left,
                         Position = UDim2.new(0, 2, 0, 2),
                         BorderSizePixel = 0,
-                        TextSize = 12,
+                        TextSize = 13,
                         BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                     })
                     
@@ -3842,7 +3842,7 @@ end
                         BackgroundTransparency = 1,
                         TextXAlignment = Enum.TextXAlignment.Left,
                         TextYAlignment = Enum.TextYAlignment.Top,
-                        TextSize = 12,
+                        TextSize = 13,
                         BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                     })
                     
@@ -4108,7 +4108,7 @@ end
                     PlaceholderColor3 = Color3.fromRGB(90, 90, 90),
                     Position = UDim2.new(0, 2, 0, 2),
                     PlaceholderText = "r, g, b, a",
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(38, 38, 38)
                 })
                 
@@ -4219,7 +4219,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 2, 0, 2),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 })
                 
@@ -4243,7 +4243,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 2, 0, 2),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 })
                 
@@ -4267,7 +4267,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 2, 0, 2),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 })
                 
@@ -4297,7 +4297,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 2, 0, 2),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 })
                 
@@ -4553,7 +4553,7 @@ end
                         BackgroundTransparency = 1,
                         TextXAlignment = Enum.TextXAlignment.Left,
                         TextYAlignment = Enum.TextYAlignment.Top,
-                        TextSize = 12,
+                        TextSize = 13,
                         BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                     })
                     
@@ -4589,7 +4589,7 @@ end
                     BackgroundTransparency = 1,
                     BorderSizePixel = 0,
                     AutoButtonColor = false,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255)
                 })
 
@@ -4649,7 +4649,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 2, 0, 2),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 })
                 
@@ -4673,7 +4673,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 2, 0, 2),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 })
                 
@@ -4697,7 +4697,7 @@ end
                     TextXAlignment = Enum.TextXAlignment.Left,
                     Position = UDim2.new(0, 2, 0, 2),
                     BorderSizePixel = 0,
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(65, 65, 65)
                 })
                 
@@ -4946,7 +4946,7 @@ end
                 TextStrokeTransparency = 0.5,
                 Position = UDim2.new(0, 2, 0, 2),
                 Size = UDim2.new(1, -4, 1, -4),
-                TextSize = 12,
+                TextSize = 13,
                 BackgroundColor3 = Color3.fromRGB(38, 38, 38)
             })
 
@@ -4990,7 +4990,7 @@ end
                 PlaceholderColor3 = Color3.fromRGB(90, 90, 90),
                 CursorPosition = -1,
                 PlaceholderText = cfg.placeholder,
-                TextSize = 12,
+                TextSize = 13,
                 BackgroundColor3 = Color3.fromRGB(38, 38, 38)
             })
             
@@ -5108,7 +5108,7 @@ end
                 LineHeight = 1.2000000476837158,
                 TextStrokeTransparency = 0.5,
                 AnchorPoint = Vector2.new(0.5, 0),
-                TextSize = 12,
+                TextSize = 13,
                 Size = UDim2.new(0, 0, 0, 11),
                 TextColor3 = Color3.fromRGB(170, 170, 170),
                 BorderColor3 = Color3.fromRGB(0, 0, 0),
@@ -5179,7 +5179,7 @@ end
             --     PlaceholderColor3 = Color3.fromRGB(90, 90, 90),
             --     Position = UDim2.new(0, 2, 0, 2),
             --     PlaceholderText = "name",
-            --     TextSize = 12,
+            --     TextSize = 13,
             --     BackgroundColor3 = Color3.fromRGB(38, 38, 38)
             -- })
 
@@ -5204,7 +5204,7 @@ end
                     TextStrokeTransparency = 0.5,
                     Position = UDim2.new(0, 2, 0, 2),
                     Size = UDim2.new(1, -4, 1, -4),
-                    TextSize = 12,
+                    TextSize = 13,
                     BackgroundColor3 = Color3.fromRGB(38, 38, 38)
                 })
                 
